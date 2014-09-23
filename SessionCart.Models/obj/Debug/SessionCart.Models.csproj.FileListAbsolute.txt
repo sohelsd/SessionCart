@@ -1,0 +1,5 @@
+C:\Users\ssiddique\Documents\SessionCart\SessionCart.Models\bin\Debug\SessionCart.Models.dll
+C:\Users\ssiddique\Documents\SessionCart\SessionCart.Models\bin\Debug\SessionCart.Models.pdb
+C:\Users\ssiddique\Documents\SessionCart\SessionCart.Models\obj\Debug\SessionCart.Models.csprojResolveAssemblyReference.cache
+C:\Users\ssiddique\Documents\SessionCart\SessionCart.Models\obj\Debug\SessionCart.Models.dll
+C:\Users\ssiddique\Documents\SessionCart\SessionCart.Models\obj\Debug\SessionCart.Models.pdb
